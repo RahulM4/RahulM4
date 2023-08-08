@@ -1,7 +1,7 @@
 
 	
 
-![](https://komarev.com/ghpvc/?username=rahulm4&style=flat&color=blue)
+![](https://komarev.com/ghpvc/?username=rahulm4&style=flat&color=blueviolet)
 
 <h1 align="center">Hi!,  I'm Rahul Mahto<img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
