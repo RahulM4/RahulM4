@@ -369,14 +369,5 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
 ## <b>💪Quote || Fact</b>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
-
+<p>Comming soon</p>
 <br>
-
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
-
-
------
-Credits: [Alamin](https://github.com/alamin2731)
-
-Last Edited on: 27/06/2023
