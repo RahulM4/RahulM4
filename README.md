@@ -38,10 +38,10 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
  
 <br>
 
-<p align="center"><!-----Social Accounts------>
+<p><!-----Social Accounts------>
 
 <p align="center">
- <a href="rahul-mahto-portfolio">
+ <a href="https://rahulm4.github.io/rahul-mahto-portfolio/#/home">
  <img border="0" alt="Rahul's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
@@ -62,25 +62,23 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
 
 
 <p align="left"> 
-  <a href="https://www.hackerrank.com/Alamin972731?hr_r=1" target="_blank"> 
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.codechef.com/users/Alamin972731" target="_blank"> 
-   <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white">
-  </a>
-  
-  <a href="https://codeforces.com/profile/alamin.ai" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
-  </a> 
-  
-  <a href="https://www.hackerearth.com/@al107" target="_blank"> 
-    <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/>
-  </a>
-  
   <a href="https://leetcode.com/alamin11/" target="_blank"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
   </a>
+  <a href="https://www.hackerrank.com/rahulforcoding4" target="_blank"> 
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/rahulforcoding4" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
+  </a> 
+  <a href="https://auth.geeksforgeeks.org/user/rahulforcoding4/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank"> 
+    <img alt="GFG" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png"/>
+  </a>
+  
+  <a href="https://www.codechef.com/users/rahulforcode4" target="_blank"> 
+   <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white">
+  </a>
+  
 </p>
 
 
