@@ -131,8 +131,9 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
   
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+  
+  <a href="https://react.dev/" target="_blank"> 
+    <img alt="React-Js" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=reactjs&logoColor=white"/>
   </a>
 </p>
 
