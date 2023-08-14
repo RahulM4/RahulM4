@@ -72,7 +72,7 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
   </a> 
   <a href="https://auth.geeksforgeeks.org/user/rahulforcoding4/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank"> 
-    <img alt="GFG" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEX///+qzLEAgiyx0LgKgzD3+/gZhjcciTpTnGNClVUVhjXo8urV5tm31L3i7+XH3cyHuJEzkEpJmFsjiT04kk5yrX/B2sZoqHaZwqJ/tIsqi0J5sYXu9vDG3cuexaY7k1Enu1NNAAAAx0lEQVQ4je2R2RKDIAxFEUOUKFUEl6LW///LuuLSTmf67nlgchMmJBfGbv7jkaW7SLPHpRxaDhDlYopFHgFwGx7rJZCOJaFOGEs0kowdQXm4UPFgalwYyZg1xfRYwPtji24+hSYVkhWH1AVFdU3VRzoLNhqjtWm8zNYLT0C+gNo57QXk2444qHBCtSaOTbuKAbdNu4jWZgMpRXKJe0I/Z0O4rBmNRTmvKQKk1z5mC+S8UW41qj1ZLa9WDyerR5LzZyXfbLr5wRvHTwlA81FaRwAAAABJRU5ErkJggg==" />
+    <img alt="GFG" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" />
   </a>
   
   <a href="https://www.codechef.com/users/rahulforcode4" target="_blank"> 
