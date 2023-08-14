@@ -41,23 +41,16 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
 <p align="center"><!-----Social Accounts------>
 
 <p align="center">
- <a href="">
+ <a href="rahul-mahto-portfolio">
  <img border="0" alt="Rahul's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/rahul-mahto-0b211a185/">
+ <a href="https://www.linkedin.com/in/rahul-mahto-0b211a185/" target="_blank">
  
  <img border="0" alt="Rahul's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/Rahulm_4">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
- </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="Rahul (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
- <a href="mailto:rahuliit448@gmail.com">
+ <a href="mailto:rahuliit448@gmail.com" target="_blank">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
