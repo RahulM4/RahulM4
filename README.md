@@ -50,7 +50,7 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
  <img border="0" alt="Rahul's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
+ <a href="https://twitter.com/Rahulm_4">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
