@@ -133,7 +133,7 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
   
   
   <a href="https://react.dev/" target="_blank"> 
-    <img alt="React-Js" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=reactjs&logoColor=white"/>
+    <img alt="React-Js" src="https://img.shields.io/badge/React%20Js-%2338B2AC.svg?logo=reactjs&logoColor=white"/>
   </a>
 </p>
 
