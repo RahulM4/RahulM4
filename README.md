@@ -62,7 +62,7 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
 
 
 <p align="left"> 
-  <a href="https://leetcode.com/alamin11/" target="_blank"> 
+  <a href="https://leetcode.com/rahulforcoding4/" target="_blank"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
   </a>
   <a href="https://www.hackerrank.com/rahulforcoding4" target="_blank"> 
@@ -110,13 +110,7 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
 
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a>
 </p>
 
 
