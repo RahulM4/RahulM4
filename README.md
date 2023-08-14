@@ -72,7 +72,7 @@ I am Rahul Mahto, a student and tech enthusiast with a passion for software deve
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
   </a> 
   <a href="https://auth.geeksforgeeks.org/user/rahulforcoding4/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank"> 
-    <img alt="GFG" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" style="width: 60px; height: 10px" />
+    <img alt="GFG" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" style="width: 30px; height: 10px" />
   </a>
   
   <a href="https://www.codechef.com/users/rahulforcode4" target="_blank"> 
