@@ -15,19 +15,6 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I am Rahul Mahto, pursuing information technology in Bachelor from Indian Institute of Information Technology, Allahabad , Prayagraj India. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
 
-<br>
-
-  
-
-
- -  🔭 I’m currently working on something cool 😉
-
-- 👯 I’m looking forward to collaborate on python projects.
-
-- 🌱 Learning about Computer Vision and Machine Learning stuff
-
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
 
 <br>
