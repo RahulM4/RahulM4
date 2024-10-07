@@ -41,7 +41,7 @@ I am Rahul Mahto, pursuing information technology in Bachelor from Indian Instit
 <p><!-----Social Accounts------>
 
 <p >
- <a href="https://rahulm4.github.io/rahul-mahto-portfolio/#/home" target="_blank">
+ <a href="https://rahulm4.github.io/rahul-mahto-portfolio/#/home/"  target="_blank">
  <img border="0" alt="Rahul's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
@@ -149,11 +149,6 @@ Learning ....
     
 
 
-
-### ♾️ DevOps
-
-<p align="left"> 
- 
 
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
