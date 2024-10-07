@@ -40,6 +40,10 @@ I am Rahul Mahto, pursuing information technology in Bachelor from Indian Instit
  <a href="mailto:rahuliit448@gmail.com" target="_blank">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
+
+  <a href="https://github.com/RahulM4" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <br>
@@ -128,18 +132,6 @@ I am Rahul Mahto, pursuing information technology in Bachelor from Indian Instit
 
 
     
-
-
-
- <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
-  
- <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  </a>
-</p>
-
 
 
 
