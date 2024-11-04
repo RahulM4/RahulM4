@@ -13,7 +13,7 @@
 
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Rahul Mahto, Recently graduated in BTech IT from Indian Institute of Information Technology, Allahabad , Prayagraj India. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+I am Rahul Mahto, Recently graduated in BTech IT from Indian Institute of Information Technology, Allahabad , Prayagraj India.
 
 
 
@@ -81,9 +81,7 @@ I am Rahul Mahto, Recently graduated in BTech IT from Indian Institute of Inform
 ### 📋 Programming languages
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
+
 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
