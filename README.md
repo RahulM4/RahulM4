@@ -13,7 +13,7 @@
 
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Rahul Mahto, pursuing information technology in Bachelor from Indian Institute of Information Technology, Allahabad , Prayagraj India. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+I am Rahul Mahto, Recently graduated in BTech IT from Indian Institute of Information Technology, Allahabad , Prayagraj India. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
 
 
 
