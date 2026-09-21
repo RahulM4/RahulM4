@@ -1,13 +1,13 @@
 # Know Me
 
-I'm a **PhD Research Scholar at IIIT Allahabad (IIITA)** working in **Artificial Intelligence, Machine Learning, Deep Learning, and Cybersecurity**. My current work focuses on AI-driven cybersecurity and threat intelligence. I also have experience in **Federated Learning, Healthcare AI, Medical Image Analysis, and LLM Evaluation**.
+I'm a PhD Research Scholar at IIIT Allahabad (IIITA) working in Deep Learning Lab(DLL Lab IIITA) in area  of Artificial Intelligence, Machine Learning, Deep Learning, and Cybersecurity. My current work focuses on AI-driven cybersecurity and threat intelligence. I also have experience in Federated Learning, Healthcare AI, Medical Image Analysis, and LLM Evaluation.
 
 ## Research
 
 **Current Research:**
 **AI-Driven Automated VPN Detection and De-anonymization Framework for Threat Intelligence using Hybrid Approaches**
 
-Research focuses on combining **AI/ML, OSINT, network intelligence, IP/ASN analysis, geolocation, and Cyber Threat Intelligence (CTI)** for VPN infrastructure analysis and threat detection.
+Research focuses on combining AI/ML, OSINT, network intelligence, IP/ASN analysis, geolocation, and Cyber Threat Intelligence (CTI) for VPN infrastructure analysis and threat detection.
 
 **Research Interests:** AI/ML • Deep Learning • Federated Learning • Healthcare AI • Cybersecurity • Threat Intelligence • LLM Evaluation
 
